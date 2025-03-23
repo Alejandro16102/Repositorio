@@ -20,4 +20,3 @@ monto_final_2 = monto_total_2 - descuento_2
 print(f"Monto total: ${monto_total_2:.2f}")
 print(f"Descuento ({porcentaje_descuento_2}%): ${descuento_2:.2f}")
 print(f"Monto final a pagar: ${monto_final_2:.2f}")
-git commit and push
